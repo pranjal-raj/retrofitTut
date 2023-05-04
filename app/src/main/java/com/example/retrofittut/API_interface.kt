@@ -3,7 +3,7 @@ package com.example.retrofittut
 import retrofit2.Call
 import retrofit2.http.GET
 
-interface API_interface {
+interface API_interface  {
 
     // baseUrl is  = https://jsonplaceholder.typicode.com/ but @GET tells us to go to
     // https://jsonplaceholder.typicode.com/posts which is the required page
